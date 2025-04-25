@@ -1,4 +1,4 @@
-### **👋 Hi there, I'm Jão (João Lima)**  
+### **👋 Hi there, I'm Jão**  
 **Postgraduate Researcher @ UFLA** | **Agentic AI · Optimization · LaTeX**  
 
 🌍 **About Me**  
