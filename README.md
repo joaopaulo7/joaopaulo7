@@ -7,7 +7,7 @@ I’m a passionate postgraduate student researching **agentic AI** and **automat
 My main interests are:
 - 🧠 **Intelligent agents** for decision-making and problem-solving
 - 🍎 **Numerical methods** for efficient computation
-- 📉 **(Mostly) continuous optimization** with abstract-world applications
+- 📉 **(Mostly) continuous optimization** with imaginary-world applications
 
 I also love **LaTeX** (currently crafting complex TikZ diagrams ✨) and care deeply about **sustainable AI** and its societal impact.
 
