@@ -2,7 +2,7 @@
 **Postgraduate Researcher @ UFLA** | **Agentic AI · Optimization · LaTeX**  
 
 🌍 **About Me**  
-I’m a passionate postgraduate student researching **agentic AI** and **automated data science**.
+I’m a postgraduate student researching **agentic AI** and **automated data science**.
 
 My main interests are:
 - 🧠 **Intelligent agents** for decision-making and problem-solving
