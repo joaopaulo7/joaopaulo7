@@ -38,6 +38,7 @@ I also love **LaTeX** (currently crafting complex TikZ diagrams ✨) and care de
 
 ### **📫 Let’s Connect**  
 - 📧 **Email**: [joao.lima10@estudante.ufla.br](mailto:joao.lima10@estudante.ufla.br)
+- 🖇️ **LinkedIn**: [João Paulo Lima](https://www.linkedin.com/in/joao-p-lima-494b84250/)
 
   
 *"Optimizing code, models, and LaTeX layouts—one iteration at a time."*
