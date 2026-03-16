@@ -1,5 +1,5 @@
 ### **👋 Hi there, I'm Jão**  
-**Postgraduate Researcher @ UFLA** | **Agentic AI · Optimization · LaTeX**  
+**Postgraduate Student and Researcher @ UFLA** | **Agentic AI · Optimization · LaTeX**  
 
 🌍 **About Me**  
 I’m a postgraduate student researching **agentic AI** and **automated data science**.
