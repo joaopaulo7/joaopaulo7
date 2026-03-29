@@ -40,8 +40,6 @@ I also love **LaTeX** (currently crafting complex TikZ diagrams ✨) and care de
 - 📧 **Email**: [joao.lima10@estudante.ufla.br](mailto:joao.lima10@estudante.ufla.br)
 - 🖇️ **LinkedIn**: [João Paulo Lima](https://www.linkedin.com/in/joao-p-lima-494b84250/)
 
-  
-*"Optimizing code, models, and LaTeX layouts—one iteration at a time."*
 
 ---
 
@@ -53,10 +51,5 @@ I also love **LaTeX** (currently crafting complex TikZ diagrams ✨) and care de
 
 <!--
 [![Jão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopaulo7&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/joaopaulo7) 
-
-
-### **🎨 Featured LaTeX Project**  
-*(Optional: Add a screenshot of a TikZ diagram or link to a repo with your LaTeX templates!)*  
-
 
 -->
