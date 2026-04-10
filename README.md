@@ -41,14 +41,6 @@ I also love **LaTeX** (currently crafting complex TikZ diagrams ✨) and care de
 - 🖇️ **LinkedIn**: [João Paulo Lima](https://www.linkedin.com/in/joao-p-lima-494b84250/)
 
 
----
-
-### **📊 GitHub Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo7&layout=compact&theme=radical&hide_border=true)](https://github.com/joaopaulo7)
-
----
-
-
 <!--
 [![Jão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaopaulo7&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/joaopaulo7) 
 
